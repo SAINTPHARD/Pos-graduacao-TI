@@ -28,5 +28,5 @@ Cada pasta representa uma disciplina ou área de estudo, contendo:
 - Resumos em Markdown
 - Exemplos práticos
 
-## 🚀 Em constante evolução
+## Em constante evolução
 Este repositório é atualizado conforme o avanço das aulas e estudos.
