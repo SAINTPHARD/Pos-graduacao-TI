@@ -1,4 +1,5 @@
-# Pos-graduacao-TI
+# Pos-graduacao-Desenvolvimento Full Stack
+
 Repositório criado para organizar meus estudos em Java, Banco de Dados, Spring, Desenvolvimento Web...
 
 # Pós-Graduação em Tecnologia da Informação
